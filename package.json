@@ -1,0 +1,26 @@
+{
+  "name": "angularjs-single-month-daterange-picker",
+  "version": "0.0.1",
+  "description": "A single month daterange picker directive for angularjs.",
+  "keywords": [
+    "date",
+    "daterange",
+    "datepicker",
+    "angularjs",
+    "angular",
+    "input"
+  ],
+  "scripts": {
+  },
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nacardin/angularjs-single-month-daterange-picker.git"
+  },
+  "license": "MIT",
+  "author": {
+    "name": "Nick Cardin",
+    "email": "nick@cardin.email",
+    "url": "https://www.nickcardin.com/"
+  }
+}
